@@ -39,27 +39,27 @@ This tool is designed strictly for educational and security research purposes on
    - Double-click `Radium.exe` to launch the tool.
    - Follow the on-screen instructions to begin.
 
-2. **Help Menu:**
+2. **Commands:**
 ```
 [1] Fetch Bot Info
 [2] Send Message to Channels
 [3] Create Multiple Channels
 [4] Delete All Channels
-[5] Create Multiple Roles
-[6] Delete All Roles
-[7] Mass DM Members
-[8] Ban All Members
-[9] Kick All Members
-[10] Change Server Icon
-[11] Change Server Name
+[5] Ban All Members
+[6] Count Channels
+[7] Invite Spam
+[8] Mass Ping
+[9] Delete All Roles
+[10] Kick All Members
+[11] Channel Flooder
 [12] Backup Server Data
 [13] Restore Backup
-[14] Create Webhook Spam
-[15] Create Invite Links
-[16] Delete All Emojis
-[17] Spam Threads
-[18] Create Custom Command
-[19] Add Member ID to Whitelist
+[14] Ultra FAST (Join Nuke)
+[15] Help Menu
+[16] Change Server Name
+[17] Change Server Icon
+[18] Create Roles
+[19] Count Roles
 [20] Exit Program
 ```
 
