@@ -89,6 +89,11 @@ This tool is designed strictly for educational and security research purposes on
 - **`Failed to fetch channels`**: Check your internet connection or Discord token.
 - **`Rate limit errors`**: Restart the tool and attempt again after some time.
 - **`Session closed`**: Ensure you are running the latest version.
+- You can contact me on discord or instragram for more support.
+
+#@ 🔗Links
+- Instragram - https://www.instagram.com/coding.akshat/
+- Discord Server - https://discord.gg/kNYcKDfcCx
 
 ---
 
