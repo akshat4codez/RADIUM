@@ -1,9 +1,10 @@
 # Radium - The Ultimate Discord Nuker
 
-![Radium Logo](radium.png)
+![Radium Logo](https://github.com/user-attachments/assets/056f66b9-9a6c-4ac1-81c1-cb1adce6b86b)
 
 ## 🧨 Description
 **Radium** is a powerful Discord tool designed to efficiently nuke servers with maximum speed while minimizing rate limits. Packed with advanced features like automated role deletion, channel removal, and a robust backup/restore system, Radium is the ultimate tool for executing rapid server destruction and restoration with precision.
+
 
 ## ⚠️ Disclaimer
 This tool is designed strictly for educational and security research purposes only. Misuse of this tool may result in severe consequences. The creator takes no responsibility for any malicious use.
