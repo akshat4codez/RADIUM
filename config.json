@@ -1,0 +1,10 @@
+{
+    "TOKEN": "YOUR_BOT_TOKEN_HERE",
+    "prefix": "$",
+    "invitelink": "YOUR_DISCORD_SERVER_LINK",
+    "guild_id": 1177510848969846874,
+    "whitelist_member": [
+      "987302776939884554",
+      "ADD_MEMBER_ID_HERE"
+    ]
+}
