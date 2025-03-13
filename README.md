@@ -91,7 +91,7 @@ This tool is designed strictly for educational and security research purposes on
 - **`Session closed`**: Ensure you are running the latest version.
 - You can contact me on discord or instragram for more support.
 
-#@ 🔗Links
+## 🔗Links
 - Instragram - https://www.instagram.com/coding.akshat/
 - Discord Server - https://discord.gg/kNYcKDfcCx
 
