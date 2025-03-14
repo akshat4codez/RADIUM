@@ -94,6 +94,10 @@ This tool is designed strictly for educational and security research purposes on
 - **`Session closed`**: Ensure you are running the latest version.
 
 ---
+## 🛠 Links
+- **`Instagram`** https://www.instagram.com/coding.akshat/
+- **`Discord`** https://discord.gg/kNYcKDfcCx
+---
 
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
